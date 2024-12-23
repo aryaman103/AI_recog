@@ -108,3 +108,4 @@ Aryaman Kumar - [aryaman704@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p># AI_recog
 # inventory_manager
+# inventory_manager
