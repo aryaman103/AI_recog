@@ -107,3 +107,4 @@ Classify face and digit by using naive bayes algorithm and perceptron algorithm.
 Aryaman Kumar - [aryaman704@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p># AI_recog
+# inventory_manager
