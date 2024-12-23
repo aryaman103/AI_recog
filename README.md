@@ -101,16 +101,9 @@ Face using Perceptron
 
 Classify face and digit by using naive bayes algorithm and perceptron algorithm.
 
-## License
-
-Distributed under the MIT License.
-
-See `LICENSE` for more information.
 
 ## Contact
 
-Feiyu Zheng - [feiyuzheng98@gmail.com](mailto:feiyuzheng98@gmail.com)
-
-Project Link: [https://github.com/ChaserZ98/Face-and-Digit-Classification](https://github.com/ChaserZ98/Face-and-Digit-Classification)
+Aryaman Kumar - [aryaman704@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p># AI_recog
